@@ -2,7 +2,7 @@
 
 Reward Conditioned Neural Movement Primitives for Population Based Variational Policy Optimization
 
-This directory contains code for the experiments. Questions can be send to [tuluhan.akbulut@boun.edu.tr]
+This directory contains code for the experiments. Questions can be send to [tuluhan_akbulut@brown.edu]
 
 Required Packages:
 
